@@ -1,0 +1,18 @@
+{
+  "short_name": "Perth Celebrant",
+  "name": "Sheikh Hisham Gad - Perth Muslim Celebrant",
+  "description": "Authorized Islamic & Civil Marriage Celebrant in Perth, Western Australia.",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='100%' height='100%' fill='%23044a3a'/><path d='M 200,130 A 130,130 0 1 0 380,310 A 150,150 0 1 1 200,130 Z' fill='%23fbbf24'/><circle cx='256' cy='220' r='40' fill='none' stroke='%23fbbf24' stroke-width='8'/><circle cx='290' cy='220' r='40' fill='none' stroke='%23fbbf24' stroke-width='8'/><text x='256' y='420' font-family='sans-serif' font-weight='800' font-size='60' fill='%23ffffff' text-anchor='middle'>SHG</text></svg>",
+      "type": "image/svg+xml",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "index.html",
+  "background_color": "#044a3a",
+  "theme_color": "#044a3a",
+  "display": "standalone",
+  "orientation": "portrait"
+}
